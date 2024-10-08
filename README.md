@@ -1,4 +1,4 @@
-<h1 align="center" >📱 HACKTOBERFEST 2023 GDG GTBIT - AIML 📱</h1>
+<h1 align="center" >📱 HACKTOBERFEST 2024 GDG GTBIT - AIML 📱</h1>
 <h2>
  What is Hacktoberfest?
 </h2>
