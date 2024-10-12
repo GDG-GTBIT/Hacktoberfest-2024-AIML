@@ -13,4 +13,6 @@ For this category, we will be implementing the following parts of operations of 
 - Backward pass
 - Optimization loop
 - Training
+
+
 Implement each operation as a separate feature which will be implemented as a separate Pull Request. Take a look at the main README for an idea about how to do so.
