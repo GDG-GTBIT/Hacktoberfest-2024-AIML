@@ -76,7 +76,7 @@ git clone --depth 1 https://github.com/GDG-GTBIT/Hacktoberfest-2024-AIML
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd OneEducationalWebsiteForAll
+cd Hacktoberfest-2024-AIML
 ```
 
 **4.** Add a reference(remote) to the original repository.
@@ -108,7 +108,7 @@ git checkout -b <your_branch_name>
 
 <p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
 
-**9.** Track your changes:heavy_check_mark: .
+**9.** Track your changes :heavy_check_mark: .
 
 ```
 git add .
@@ -132,7 +132,7 @@ git push -u origin <your_branch_name>
 
 **14.** Click on `Create Pull Request`.
 
-**15.** Voila :exclamation: You have made a PR to the Akshima-Ghai/OneEducationalWebsiteForAll project :boom: . Sit back patiently and relax while the project maintainers review your PR. Please understand, at times the time taken to review a PR can vary from a few hours to a few days.
+**15.** Voila :exclamation: You have made a PR to the GDG-GTBIT/Hacktoberfest-2024-AIML project :boom: . Sit back patiently and relax while the project maintainers review your PR. Please understand, at times the time taken to review a PR can vary from a few hours to a few days.
 
 <p align="center"><img src="https://media.tenor.com/images/b562ddcfb131e962f9dfa01bd32a30d1/tenor.gif" width=30%></p>
 
