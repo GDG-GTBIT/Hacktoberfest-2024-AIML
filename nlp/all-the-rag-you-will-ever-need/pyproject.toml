@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "ragger"
+version = "0.1.0"
+description = "Basic client library for providing methods in a Retrieval Augmented Generation assisted project"
+authors = ["ViratCh04 <105713825+ViratCh04@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.3.5"
+qdrant-client = "^1.12.1"
+openai = "^1.52.2"
+langchain-openai = "^0.2.4"
+langchain-qdrant = "^0.1.4"
+pydantic = "^2.9.2"
+python-dotenv = "^1.0.1"
+langchain-cohere = "^0.3.1"
+langgraph = "^0.2.39"
+streamlit = "^1.39.0"
+pymupdf = "^1.24.13"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.3"
+isort = "^5.13.2"
+black = "^24.10.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
