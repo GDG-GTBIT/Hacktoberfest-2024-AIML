@@ -1,5 +1,5 @@
 # Image Generation
-This folder is for any projects related to Image Generation. Anything from autoencoders, GANs, its variants, Diffusion models, or any other idea you might have regarding image gen.
+This folder is for any projects related to Images. Anything from CNNs, autoencoders, GANs, its variants, Diffusion models, or any other idea you might have regarding images.
 
 # Contribution Guidelines
 Notebooks are fine for the submissions, but try to explain each step and your plans using Markdown and comments in as many places as possible. 
